@@ -5,7 +5,7 @@ If you would like to oversample your video feed, that must be done in the Datapa
 
 More info on oversampling is available [here](https://lukedischiave.neocities.org).
 ## Description
-These scripts capture video from a Datapath Vision-E1 on a Windows system. Output is: "output.mkv".
+These scripts are designed to capture component YPbPr video from a Datapath Vision-E1 on a Windows system and audio from the user's line-in port. The reuslting output is a video: "output.mkv".
 
 The default audio device where the script gets its audio from is Line-In port. **Make sure you replace: "Line In (Realtek(R) Audio)" in the script file with the name of the audio device that you want to use for your capture (it should have the words "Line-In" in its name)**
 
