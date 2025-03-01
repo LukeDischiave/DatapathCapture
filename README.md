@@ -21,7 +21,7 @@ Download the lastest release and unzip it. Copy the contents of the "bin" folder
 
 1.) Simply run the batch file 
 
-The script captures YUV444p video at a constant quality rate of 14, with the original source framerate intact. Audio bitrate is 240kb/s and sample rate is 48k. It's nearly lossless quality
+The script captures YUV444p video at a constant quality rate of 14 for NTSC, and 13 for PAL. The original source framerate remains intact. Audio bitrate is 240kb/s and sample rate is 48k. It's result is effectively lossless quality. 
 
 ### Capture_NTSC: 
 Designed to capture footage from a Japanese/American Nintendo 64 console
